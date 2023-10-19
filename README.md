@@ -1,19 +1,28 @@
-# Challenge for a Data Analyst/Scientist position
+# Challenge for a Data Scientist position
 
-## The task
+## Objective
+Go through this real world example of work that would be done by a Data Scientist at AXA Digital. The idea is that we don't want something that is perfect. We want to see how you think about problems, how you deal with issues at scale, and how you feel about the technical work.
 
-You have historical 1 minute price data of crypto symbol BTCBUSD. We want you first to transform data types to more appropriate format for further analysis. 
+- This assessment is designed for only a few hours of your time.
+- Please provide all code in Python.
 
-Then perform an exploratory data analysis (EDA) with your comments and insights about the data and its intricacies.
 
-Later try to create a machine learning model (of your choice) with focus on features engineering, measuring their importance, results interpretation, listing possible improvement possibilities. 
+### PART 1
+1. You have historical 1 minute price data of BTC/BUSD. We want you first to transform data types to a more appropriate format for further analysis.
 
-You have a freedom to select for which timeframes (however we would like to see it more in the intraday range and the lowest frequency should be 1 day). You also can choose what problem you are trying to solve (classification or regression).
+Please note any data quality issues you encountered and how you did solve those as it can be a very likely problem in production environment.
 
-## Additional details
+### PART 2
+2. Perform an exploratory analysis on the moving average (MA) and exponential moving average (EMA). Which do you find to have a better success rate given your analysis, are  longer or shorter lookback periods in MA and EMA?
 
-* Please note any data quality issues you encountered and how you did solve those as it can be a very likely problem in production environment.
+Show your work, results, present a case, and describe your findings.
 
-* Provide your thought process and justification on why you chose particular features, ML model etc.
+### PART 3
+3. Implement a simple machine learning, AI - or any other model of your choice - that can help look for other patterns in your dataset results. Pick out the best signals and aggregate the results.
 
-* Technologies of our preference would be Python or Apache Spark (Can be PySpark or SQL).
+Explain your reasoning for choosing the your models and describe the patterns you are finding across your data.
+
+### BONUS
+4. Using the signals from your best signal picks in step 3, create another machine learning models which compounds your findings to further evaluate.
+
+Do you see any new patterns from your results? Explain your reasoning and show your work.
