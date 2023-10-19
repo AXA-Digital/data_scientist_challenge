@@ -20,7 +20,7 @@ Show your work, results, present a case, and describe your findings.
 ### PART 3
 3. Implement a simple machine learning, AI - or any other model of your choice - that can help look for other patterns in your dataset results. Pick out the best signals and aggregate the results.
 
-Explain your reasoning for choosing the your models and describe the patterns you are finding across your data.
+Explain your reasoning for choosing the model(s) and describe the patterns you are finding across your data.
 
 ### BONUS
 4. Using the signals from your best signal picks in step 3, create another machine learning models which compounds your findings to further evaluate.
