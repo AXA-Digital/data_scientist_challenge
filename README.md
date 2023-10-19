@@ -13,7 +13,7 @@ Go through this real world example of work that would be done by a Data Scientis
 Please note any data quality issues you encountered and how you did solve those as it can be a very likely problem in production environment.
 
 ### PART 2
-2. Perform an exploratory analysis on the moving average (MA) and exponential moving average (EMA). Which do you find to have a better success rate given your analysis, are  longer or shorter lookback periods in MA and EMA?
+2. Perform an exploratory analysis on the moving average (MA) and exponential moving average (EMA). Which do you find to have a better success rate given your analysis, are  longer or shorter lookback periods in MA and EMA better?
 
 Show your work, results, present a case, and describe your findings.
 
